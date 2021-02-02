@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.pavelsikun.seekbarpreference.SeekBarPreferenceCompat
+        android:key="com.gsk.timer.hydrate_timer_length"
+        android:title="Hydrate Timer"
+        android:summary="For how long should the reminder timer run?"
+        android:defaultValue="30"
+        app:msbp_minValue="1"
+        app:msbp_maxValue="60"
+        app:msbp_interval="5"
+        app:msbp_measurementUnit="minutes"
+        app:msbp_dialogEnabled="true"/>
+
+    <com.pavelsikun.seekbarpreference.SeekBarPreferenceCompat
+        android:key="com.gsk.timer.stretch_timer_length"
+        android:title="Stretch Timer"
+        android:summary="For how long should the reminder timer run?"
+        android:defaultValue="30"
+        app:msbp_minValue="1"
+        app:msbp_maxValue="60"
+        app:msbp_interval="5"
+        app:msbp_measurementUnit="minutes"
+        app:msbp_dialogEnabled="true"/>
+
+    <com.pavelsikun.seekbarpreference.SeekBarPreferenceCompat
+        android:key="com.gsk.timer.walk_timer_length"
+        android:title="Walk Timer"
+        android:summary="For how long should the reminder timer run?"
+        android:defaultValue="30"
+        app:msbp_minValue="1"
+        app:msbp_maxValue="300"
+        app:msbp_interval="30"
+        app:msbp_measurementUnit="minutes"
+        app:msbp_dialogEnabled="true"/>
+</PreferenceScreen>

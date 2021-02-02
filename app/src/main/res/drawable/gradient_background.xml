@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <gradient
+                android:angle="180"
+                android:startColor="#37ecba"
+                android:endColor="#72afd3"/>
+        </shape>
+    </item>
+</selector>
+<!-- Happy Acid #37ecba→#72afd3
+
+ -->
