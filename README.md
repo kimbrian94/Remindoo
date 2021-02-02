@@ -15,3 +15,9 @@ Remindoo will give you these reminders with alarms, and notifications as you wor
 4. When the user presses 'End My Day' signaling, his/her work or study has ended, dialog box will be displayed with summary of the each timer's total count.
 
 ## Screenshots
+![](/images/cardflip.gif) ![](/images/notification.gif) ![](/images/endday.gif)
+
+## Libraries
+[MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar)
+
+[MaterialSeekBarPreference](https://github.com/MrBIMC/MaterialSeekBarPreference)
