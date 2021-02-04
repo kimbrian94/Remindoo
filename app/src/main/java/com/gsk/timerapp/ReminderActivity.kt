@@ -326,6 +326,7 @@ class ReminderActivity : AppCompatActivity() {
             }
         }
     }
+
     private fun startTimer(timer: Int) {
         when (timer) {
             HYDRATE_TIMER -> {
