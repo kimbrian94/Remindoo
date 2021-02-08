@@ -1,5 +1,8 @@
 # Remindoo App
 Mobile Application that periodically gives essential health reminders that help users to build a healthier work, study cycles.
+
+[![](/images/play_store.png)](https://play.google.com/store/apps/details?id=com.gsk.timerapp)
+
 ## Introduction
 As the environments for work and school begin to change, we find ourselves with longer periods of time spending at home. While sitting in front of a desk all day, we often forget to meet the simplest bodily needs.
 
